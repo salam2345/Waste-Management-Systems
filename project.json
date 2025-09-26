@@ -1,0 +1,17 @@
+{
+  "id": "Smart Waste Management & Recycling System (SWMRS)",
+  "documents": [
+    "Vision and Scope.json"
+  ],
+  "traceability": {
+    "reference": {
+      "name": "Reference",
+      "source": "References",
+      "target": "Referenced by"
+    }
+  },
+  "metadata": {
+    "format": "2.20",
+    "saveHistory": true
+  }
+}
