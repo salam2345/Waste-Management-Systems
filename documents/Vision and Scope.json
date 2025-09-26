@@ -1,0 +1,40 @@
+{
+  "id": "Vision and Scope",
+  "guid": "2321087b-703d-449e-9077-054d294a10c6",
+  "lastId": 0,
+  "createdOn": "2025-09-26T19:19:04.888Z",
+  "createdBy": {
+    "name": "T00786182",
+    "email": "t00786182@mytru.ca",
+    "company": "Thompson Rivers University"
+  },
+  "lastChangedOn": "2025-09-26T19:19:04.888Z",
+  "lastChangedBy": {
+    "name": "T00786182",
+    "email": "t00786182@mytru.ca",
+    "company": "Thompson Rivers University"
+  },
+  "data": [],
+  "attributes": {
+  },
+  "templateColumns": {
+  },
+  "views": {
+    "Primary": {
+      "columns": [
+        {
+          "columnId": "id",
+          "width": 65
+        },
+        {
+          "columnId": "description",
+          "width": 500
+        }
+      ],
+      "default": true
+    }
+  },
+  "metadata": {
+    "format": "2.20"
+  }
+}
