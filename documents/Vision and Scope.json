@@ -1,20 +1,569 @@
 {
   "id": "Vision and Scope",
   "guid": "2321087b-703d-449e-9077-054d294a10c6",
-  "lastId": 0,
+  "lastId": 88,
   "createdOn": "2025-09-26T19:19:04.888Z",
   "createdBy": {
     "name": "T00786182",
     "email": "t00786182@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2025-09-26T19:19:04.888Z",
+  "lastChangedOn": "2025-09-26T19:20:13.188Z",
   "lastChangedBy": {
     "name": "T00786182",
     "email": "t00786182@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "data": [],
+  "data": [
+    {
+      "id": "2",
+      "guid": "05bbf31a-0218-4994-841a-c1cce9dfa3ac",
+      "text": "<p>Vision and Scope Document</p>"
+    },
+    {
+      "id": "3",
+      "guid": "d4dc7d0a-0667-4625-bc75-0bf1d00ac3bc",
+      "text": "<p><span>for</span></p>"
+    },
+    {
+      "id": "4",
+      "guid": "ee3abc3a-d2e6-48ef-bf7f-b52ad6e29dae",
+      "text": "<p>&lt;Project&gt;</p>"
+    },
+    {
+      "id": "5",
+      "guid": "a2b6f3d5-5652-4450-aa3e-6ff020132630",
+      "text": "<p>Version 1.0 approved</p>"
+    },
+    {
+      "id": "6",
+      "guid": "2200ccd1-2671-4d72-84bf-18416cc33f85",
+      "text": "<p>Prepared by &lt;author&gt;</p>"
+    },
+    {
+      "id": "7",
+      "guid": "17cbf44f-98b6-4986-96f9-d5225a1fde09",
+      "text": "<p>&lt;organization&gt;</p>"
+    },
+    {
+      "id": "8",
+      "guid": "e2d0555a-1967-49de-8193-cb450a66ff9e",
+      "text": "<p>&lt;date created&gt;</p>"
+    },
+    {
+      "id": "9",
+      "guid": "dbc01eb5-762e-4d10-9f87-8555f49e4d3f",
+      "text": "<p><a><span>Table of Contents</span></a></p>"
+    },
+    {
+      "id": "10",
+      "guid": "0c2e426c-7452-4b69-9838-d609b744943b",
+      "text": "<p><span>Table of Contents<span>.................................................................................&nbsp;</span></span><span>ii</span></p>"
+    },
+    {
+      "id": "11",
+      "guid": "60550b82-8b87-4c7c-8872-97baa73d2615",
+      "text": "<p><span>Revision History<span>...................................................................................&nbsp;</span></span><span>ii</span></p>"
+    },
+    {
+      "id": "12",
+      "guid": "18d78323-6a96-4d03-a296-9371d39dc49b",
+      "text": "<p><span>1.</span><span><span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span>Business Requirements<span>...................................................................&nbsp;</span></span><span>1</span></p>"
+    },
+    {
+      "id": "13",
+      "guid": "6811265e-05f0-4dc6-92aa-39f1619248b6",
+      "text": "<p><span>1.1.</span><span><span><span>&nbsp;&nbsp;</span></span>Background<span>.............................................................................&nbsp;</span></span><span>1</span></p>"
+    },
+    {
+      "id": "14",
+      "guid": "2d89beb4-36f4-4319-90a2-ace5ab35e429",
+      "text": "<p><span>1.2.</span><span><span><span>&nbsp;&nbsp;</span></span>Business Problem or Opportunity<span>...........................................&nbsp;</span></span><span>1</span></p>"
+    },
+    {
+      "id": "15",
+      "guid": "bee6d393-90b2-43f2-8bdb-03c704ccb637",
+      "text": "<p><span>1.3.</span><span><span><span>&nbsp;&nbsp;</span></span>Business Objectives<span>................................................................&nbsp;</span></span><span>1</span></p>"
+    },
+    {
+      "id": "16",
+      "guid": "a5714422-e70c-4466-bfa0-7cc4ba13e67f",
+      "text": "<p><span>1.4.</span><span><span><span>&nbsp;&nbsp;</span></span>Success Metrics<span>.......................................................................&nbsp;</span></span><span>1</span></p>"
+    },
+    {
+      "id": "17",
+      "guid": "4566a698-1532-40ec-8c97-09f2781119a2",
+      "text": "<p><span>1.5.</span><span><span><span>&nbsp;&nbsp;</span></span>Vision Statement<span>.....................................................................&nbsp;</span></span><span>1</span></p>"
+    },
+    {
+      "id": "18",
+      "guid": "7e1bc4ef-76d5-49f6-ac0c-d50fe5d2978a",
+      "text": "<p><span>1.6.</span><span><span><span>&nbsp;&nbsp;</span></span>Business Risks<span>.........................................................................&nbsp;</span></span><span>2</span></p>"
+    },
+    {
+      "id": "19",
+      "guid": "e94d8471-74eb-4841-8adb-8bb5e2cb5605",
+      "text": "<p><span>1.7.</span><span><span><span>&nbsp;&nbsp;</span></span>Business Assumptions and Dependencies<span>..............................&nbsp;</span></span><span>2</span></p>"
+    },
+    {
+      "id": "20",
+      "guid": "5ed4a49f-a72d-4749-b57e-64cc218df015",
+      "text": "<p><span>2.</span><span><span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span>Scope and Limitations<span>....................................................................&nbsp;</span></span><span>2</span></p>"
+    },
+    {
+      "id": "21",
+      "guid": "270868ca-3c1e-4ac1-8055-11cb44f65928",
+      "text": "<p><span>2.1.</span><span><span><span>&nbsp;&nbsp;</span></span>Major Features<span>........................................................................&nbsp;</span></span><span>2</span></p>"
+    },
+    {
+      "id": "22",
+      "guid": "f848329f-f5c5-4d4c-814a-69b24951145b",
+      "text": "<p><span>2.2.</span><span><span><span>&nbsp;&nbsp;</span></span>Scope of Initial Release<span>...........................................................&nbsp;</span></span><span>2</span></p>"
+    },
+    {
+      "id": "23",
+      "guid": "25e27cfa-472a-4382-b1dc-2c407df75c7c",
+      "text": "<p><span>2.3.</span><span><span><span>&nbsp;&nbsp;</span></span>Scope of Subsequent Releases<span>................................................&nbsp;</span></span><span>2</span></p>"
+    },
+    {
+      "id": "24",
+      "guid": "54292096-cc1e-4b8c-8d43-afbda2663d60",
+      "text": "<p><span>2.4.</span><span><span><span>&nbsp;&nbsp;</span></span>Limitations and Exclusions<span>.....................................................&nbsp;</span></span><span>3</span></p>"
+    },
+    {
+      "id": "25",
+      "guid": "9072c595-7d60-4dca-b430-ae65e66a11dc",
+      "text": "<p><span>3.</span><span><span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span>Business Context<span>............................................................................&nbsp;</span></span><span>3</span></p>"
+    },
+    {
+      "id": "26",
+      "guid": "83d5b57b-3e03-4338-a622-6830f931a4f5",
+      "text": "<p><span>3.1.</span><span><span><span>&nbsp;&nbsp;</span></span>Stakeholder Profiles<span>................................................................&nbsp;</span></span><span>3</span></p>"
+    },
+    {
+      "id": "27",
+      "guid": "b607ad1e-c532-4888-bdbb-1808e35205f2",
+      "text": "<p><span>3.2.</span><span><span><span>&nbsp;&nbsp;</span></span>Project Priorities<span>......................................................................&nbsp;</span></span><span>4</span></p>"
+    },
+    {
+      "id": "28",
+      "guid": "585a9ad6-e8f5-41d0-9ddf-35c9dae85874",
+      "text": "<p><span>3.3.</span><span><span><span>&nbsp;&nbsp;</span></span>Deployment Considerations<span>....................................................&nbsp;</span></span><span>4</span></p>"
+    },
+    {
+      "id": "29",
+      "guid": "2ef2faaa-92dd-4417-8290-d4fcf0b6099a",
+      "text": "<p><span><a>Revision History</a></span></p><table><tbody><tr><td style=\"width:1.5in;\"><p>Name</p></td><td style=\"width:58.5pt;\"><p>Date</p></td><td style=\"width:247.7pt;\"><p>Reason For Changes</p></td><td style=\"width:1.1in;\"><p>Version</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;</p></td><td style=\"width:58.5pt;\"><p>&nbsp;</p></td><td style=\"width:247.7pt;\"><p>&nbsp;</p></td><td style=\"width:1.1in;\"><p>&nbsp;</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;</p></td><td style=\"width:58.5pt;\"><p>&nbsp;</p></td><td style=\"width:247.7pt;\"><p>&nbsp;</p></td><td style=\"width:1.1in;\"><p>&nbsp;</p></td></tr></tbody></table>"
+    },
+    {
+      "id": "30",
+      "guid": "d1d4c53d-787f-401b-89d7-50c363c3ef6a",
+      "heading": "Business Requirements",
+      "children": [
+        {
+          "id": "31",
+          "guid": "1d8a59a7-ec31-483b-960e-7ab76f6a9fb4",
+          "text": "<p>&lt;The business requirements provide the foundation and reference for all detailed requirements development. You may gather business requirements from the customer or development organization’s senior management, an executive sponsor, a project visionary, product owner, product manager, the marketing department, or other stakeholders who have a clear sense of why the project is being undertaken and the ultimate value it will provide, both to the business and to its customers.&gt;</p>"
+        },
+        {
+          "id": "32",
+          "guid": "eede6c74-6099-4170-98bb-6d885d930356",
+          "heading": "Background",
+          "children": [
+            {
+              "id": "33",
+              "guid": "1e1f0651-5c6c-4529-ba81-f9c5cd16668a",
+              "text": "<p>&lt;Summarize the rationale for the new product. Provide a general description of the history or situation that leads to the recognition that this product should be built.&gt;</p>"
+            }
+          ]
+        },
+        {
+          "id": "34",
+          "guid": "f5e761b5-fa2d-4cc2-97cc-bd3c4e596159",
+          "heading": "Business Problem or Opportunity",
+          "children": [
+            {
+              "id": "35",
+              "guid": "5fbef655-d6b4-4f67-aac1-d2a7453837e3",
+              "text": "<p>&lt;Describe the business problem that is being solved or the business opportunity that exists. Describe the market in which a commercial product will be competing or the environment in which an information system will be used. This may include a brief comparative evaluation of existing products and potential solutions, indicating why the proposed product is attractive. Identify the problems that cannot currently be solved without the product, and how the product fits in with market trends or corporate strategic directions.</p>"
+            },
+            {
+              "id": "36",
+              "guid": "c30a0725-8ae9-4b03-8139-8986f540cbfe",
+              "text": "<p>This is a good template for a problem statement:</p>"
+            },
+            {
+              "id": "37",
+              "guid": "25dc5a6b-72c6-47ac-8cf4-49a1d6d3eee6",
+              "text": "<p><span style=\"color:windowtext;\">Situation<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span style=\"color:windowtext;\">Describe the background, context, and environment.</span></p>"
+            },
+            {
+              "id": "38",
+              "guid": "2448da55-61ff-4103-a5c4-d2641954146a",
+              "text": "<p><span style=\"color:windowtext;\">Problem</span><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Describe the business problem (or problems) as you now understand it</span></p>"
+            },
+            {
+              "id": "39",
+              "guid": "b2988157-b8af-4be1-8dfe-ea914fb999d8",
+              "text": "<p><span style=\"color:windowtext;\">Implication</span><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;</span>Describe the likely results if the problem isn’t solved.</span></p>"
+            },
+            {
+              "id": "40",
+              "guid": "1832e945-ee5a-42ea-98e6-b1c331b7fab1",
+              "text": "<p><span style=\"color:windowtext;\">Benefit</span><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>State the business value of solving the problem.</span></p>"
+            },
+            {
+              "id": "41",
+              "guid": "71004e4b-f3bf-4003-8cb0-750e83182a4f",
+              "text": "<p><span style=\"color:windowtext;\">Vision</span><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Describe what the desired future state would look like.&gt;</span></p>"
+            }
+          ]
+        },
+        {
+          "id": "42",
+          "guid": "fd5cf23f-0674-4e73-8676-da6f3f320d03",
+          "heading": "Business Objectives",
+          "children": [
+            {
+              "id": "43",
+              "guid": "24d6797e-8415-41bf-8564-23c24fa108d5",
+              "text": "<p>&lt;Describe the important business objectives of the product in a way that is quantitative and measurable. Focus on the value provided to the business, including estimates of revenue or cost savings, return on investment analysis, or target release dates.&gt;</p>"
+            }
+          ]
+        },
+        {
+          "id": "44",
+          "guid": "0a0e6612-ebd9-4732-9944-762ccd26b979",
+          "heading": "Success Metrics",
+          "children": [
+            {
+              "id": "45",
+              "guid": "a1500405-dce2-4212-83ff-b595dc0509e2",
+              "text": "<p>&lt; Determine how success will be defined and measured for this product. Describe the factors that are likely to have the greatest impact on achieving that success. Include things within the organization’s control as well as external factors. Establish measurable criteria to assess whether the business objectives have been met or whether the trends are moving in the desired direction toward the goal.&gt;</p>"
+            }
+          ]
+        },
+        {
+          "id": "46",
+          "guid": "752a213a-1e58-40d7-b469-96377293ac59",
+          "heading": "Vision Statement",
+          "children": [
+            {
+              "id": "47",
+              "guid": "4013b1ce-7d86-4da8-a253-35f720d38dcf",
+              "text": "<p>&lt;Write a concise vision statement that summarizes the purpose and intent of the new product and describes what the world will be like when it includes the product. The vision statement should reflect a balanced view that will satisfy the needs of diverse stakeholders as well as those of the developing organization. The vision should be grounded in the realities of existing or anticipated customer markets, enterprise architectures, organizational strategic directions, and cost and resource limitations.</p>"
+            },
+            {
+              "id": "48",
+              "guid": "c8e135dc-9a13-40de-b37b-26f8b644887d",
+              "text": "<p>This is a good template for a vision statement:</p>"
+            },
+            {
+              "id": "49",
+              "guid": "a9a0bad0-7128-4f95-b759-a79e2123459a",
+              "text": "<p><strong><span style=\"color:windowtext;\">For<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><span style=\"color:windowtext;\">target customer</span></p>"
+            },
+            {
+              "id": "50",
+              "guid": "b6c8815f-3a8f-4458-9fa7-41f7022d402e",
+              "text": "<p><strong><span style=\"color:windowtext;\">Who<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><span style=\"color:windowtext;\">statement of the need or opportunity</span></p>"
+            },
+            {
+              "id": "51",
+              "guid": "0d484ade-9ee7-403f-8093-6f21233d3f8c",
+              "text": "<p><strong><span style=\"color:windowtext;\">The<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><span style=\"color:windowtext;\">product name</span></p>"
+            },
+            {
+              "id": "52",
+              "guid": "d19e00c4-ca42-452d-b505-0e522059ccef",
+              "text": "<p><strong><span style=\"color:windowtext;\">Is<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><span style=\"color:windowtext;\">product category</span></p>"
+            },
+            {
+              "id": "53",
+              "guid": "1766d4b1-339f-4cc4-b24f-c28cc7165c2b",
+              "text": "<p><strong><span style=\"color:windowtext;\">That<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><span style=\"color:windowtext;\">major capabilities, key benefit, compelling reason to buy or use</span></p>"
+            },
+            {
+              "id": "54",
+              "guid": "5d9a8988-7f08-4ee3-a570-935979bc4587",
+              "text": "<p><strong><span style=\"color:windowtext;\">Unlike</span></strong><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>primary competitive alternative, current system, current business process</span></p>"
+            },
+            {
+              "id": "55",
+              "guid": "1b8f0653-60a8-4be4-9dfb-e97895ae20d7",
+              "text": "<p><strong><span style=\"color:windowtext;\">Our product</span></strong><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>statement of primary differentiation and advantages of new product</span><span style=\"color:windowtext;\">&gt;</span></p>"
+            }
+          ]
+        },
+        {
+          "id": "56",
+          "guid": "17953024-3bf4-40ed-9a1c-baa437208155",
+          "heading": "Business Risks",
+          "children": [
+            {
+              "id": "57",
+              "guid": "fb4f390f-3faa-4b45-a8ea-317eee99c4cc",
+              "text": "<p>&lt;Summarize the major business risks associated with developing this product, such as marketplace competition, timing issues, user acceptance, implementation issues, or possible negative impacts on the business. Estimate the severity of the risks and identify any risk mitigation actions that could be taken.&gt;</p>"
+            }
+          ]
+        },
+        {
+          "id": "58",
+          "guid": "fd641acc-4e28-4427-aab8-39fefdfc77a7",
+          "heading": "Business Assumptions and Dependencies",
+          "children": [
+            {
+              "id": "59",
+              "guid": "ecc0272f-4da4-4caf-95ef-aa6a1c3bf94b",
+              "text": "<p>&lt;Record any assumptions that were made when conceiving the project and preparing this document. Note any major dependencies the project must rely upon for success, such as specific technologies, third-party vendors, development partners, or other business relationships.&gt;</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "guid": "bd66517e-7f81-408a-bd51-a60a1b6e1c8d",
+      "heading": "Scope and Limitations",
+      "children": [
+        {
+          "id": "61",
+          "guid": "1d052d09-5349-4a2d-9643-62cf627123ec",
+          "text": "<p>&lt;The project scope defines the concept and range of the proposed solution. It’s also helpful to define what will not be included in the product. Clarifying the scope and limitations helps to establish realistic expectations of the many stakeholders. It also provides a reference frame against which proposed features and requirements changes can be evaluated. Proposed requirements that are out of scope for the envisioned product must be rejected, unless they are so beneficial that the scope should be enlarged to accommodate them (with accompanying changes in budget, schedule, and/or resources).&gt;</p>"
+        },
+        {
+          "id": "62",
+          "guid": "c76c551e-69ad-4b46-add8-e04f9a2a1b44",
+          "heading": "Major Features",
+          "children": [
+            {
+              "id": "63",
+              "guid": "962aa440-5851-47a8-9980-8fc587b06f2e",
+              "text": "<p>&lt;Include a numbered list of the major features of the new product, emphasizing those <span>features<span>&nbsp;&nbsp;</span>that</span> distinguish it from previous or competing products. Specific user requirements and functional requirements developed later may be traced back to these features.&gt;</p>"
+            }
+          ]
+        },
+        {
+          "id": "64",
+          "guid": "21a291fa-f885-4828-9a35-767fdacd51ba",
+          "heading": "Scope of Initial Release",
+          "children": [
+            {
+              "id": "65",
+              "guid": "ae013c12-b244-45f1-8d6c-c6c4c1a82554",
+              "text": "<p>&lt;Describe the intended major features that will be included in the initial release of the product. Consider the benefits the product is intended to bring to the various customer communities, and generally describe the product features and quality characteristics that will enable it to provide those benefits. Avoid the temptation to include every possible feature that any potential customer category might conceivably want some day. Focus on those features and product characteristics that will provide the most value, at the most acceptable development cost, to the broadest community. A feature tree or feature table is a useful way to represent this scope.&gt;</p>"
+            }
+          ]
+        },
+        {
+          "id": "66",
+          "guid": "d3813679-8499-44ef-aaec-8f83968ff2a7",
+          "heading": "Scope of Subsequent Releases",
+          "children": [
+            {
+              "id": "67",
+              "guid": "e7b94fd0-b61b-49ac-967a-6837333ae682",
+              "text": "<p>&lt;If a staged evolution of the product is envisioned over time, indicate which major features will be deferred to later releases.&gt;</p>"
+            }
+          ]
+        },
+        {
+          "id": "68",
+          "guid": "d37d615c-275b-4f4d-9141-63981ce9185b",
+          "heading": "Limitations and Exclusions",
+          "children": [
+            {
+              "id": "69",
+              "guid": "088bfc47-883b-48d8-86b8-49bc67a0a557",
+              "text": "<p>&lt;Identify any product features or characteristics that a stakeholder might anticipate, but which are not planned to be included in the new product.&gt;</p>"
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "guid": "66e041a9-8cab-410e-ad1b-8a7168c62b4b",
+          "heading": "Diagrams",
+          "history": [
+            {
+              "affectedNodeId": "60",
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-09-26T19:19:45.748Z",
+              "docId": "Vision and Scope",
+              "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "heading": null
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00786182@mytru.ca",
+                "name": "T00786182"
+              },
+              "changedOn": "2025-09-26T19:19:51.649Z"
+            }
+          ],
+          "children": [
+            {
+              "id": "88",
+              "guid": "7f938bfa-0b64-48b7-adad-1b9a3e6e0732",
+              "heading": "Context diagram",
+              "attachments": [
+                "Vision and Scope-88_1_Screenshot 2025-09-26 121035.png"
+              ],
+              "history": [
+                {
+                  "affectedNodeId": "87",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-09-26T19:19:53.745Z",
+                  "docId": "Vision and Scope",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-09-26T19:20:03.835Z"
+                },
+                {
+                  "addedAttachment": "Vision and Scope-88_1_Screenshot 2025-09-26 121035.png",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00786182@mytru.ca",
+                    "name": "T00786182"
+                  },
+                  "changedOn": "2025-09-26T19:20:13.188Z"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "70",
+      "guid": "b93f0a37-ab4a-4235-9fcc-30723a12995a",
+      "heading": "Business Context",
+      "children": [
+        {
+          "id": "71",
+          "guid": "880113ec-1727-4e3a-a8d9-a902f5caeb42",
+          "text": "<p>&lt;This section summarizes some of the business issues around the project, including profiles of major customer categories, assumptions that went into the project concept, and the management priorities for the project.&gt;</p>"
+        },
+        {
+          "id": "72",
+          "guid": "09edacc4-ca74-46e3-8bd7-d0820000e061",
+          "heading": "Stakeholder Profiles",
+          "children": [
+            {
+              "id": "73",
+              "guid": "47da64c7-6db3-4210-85fc-0c946deea7b2",
+              "text": "<p>&lt;Stakeholders are individuals, groups, or organizations that are actively involved in a project, are affected by its outcome, or can influence its outcome. The stakeholder profiles identify the customers for this product and other stakeholders, and states their major interests in the product. Characterize business-level customers, target market segments, and different user classes, to reduce the likelihood of unexpected requirements surfacing later. For each category, the profile includes the major value or benefits they will receive from the product, their likely attitudes toward the product, major features and characteristics of interest, and any known constraints that must be accommodated. Examples of stakeholder value include:</p>"
+            },
+            {
+              "id": "74",
+              "guid": "4405e784-cf7d-43de-ac8d-0dcc21a54483",
+              "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>improved productivity</p>"
+            },
+            {
+              "id": "75",
+              "guid": "fbbd68b1-e301-48c0-86de-0c12b0b0278a",
+              "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>reduced errors and rework</p>"
+            },
+            {
+              "id": "76",
+              "guid": "fb581ce6-4d33-45cb-a509-7fde5f86ee3a",
+              "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>cost savings</p>"
+            },
+            {
+              "id": "77",
+              "guid": "4a9047c1-27fe-4fef-9a33-31e368fe55a9",
+              "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>streamlined business processes</p>"
+            },
+            {
+              "id": "78",
+              "guid": "570ec9a4-54ec-4827-aa13-5b565f87a0c1",
+              "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>automation of previously manual tasks</p>"
+            },
+            {
+              "id": "79",
+              "guid": "52fe53be-7861-4ac3-bbca-8f00e8a38e37",
+              "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>ability to perform entirely new tasks or functions</p>"
+            },
+            {
+              "id": "80",
+              "guid": "bd0345e8-2cd5-4249-a9a1-a274828fb3fc",
+              "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>conformance to current standards or regulations</p>"
+            },
+            {
+              "id": "81",
+              "guid": "329e6c91-9c3b-4ba3-9e1c-0b3d43d6f4bf",
+              "text": "<p><span><span>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>improved usability or reduced frustration level compared to current applications</p>"
+            },
+            {
+              "id": "82",
+              "guid": "e1ccf8f3-e6fa-4a3f-83d6-e1cee1e35a01",
+              "text": "<p>There are many ways to record stakeholder profiles. Here’s one template:&gt;</p><table style=\"width:473.4pt;\"><tbody><tr><td style=\"width:.95in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Stakeholder</span></p></td><td style=\"width:67.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Roles</span></p></td><td style=\"width:85.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Interests</span></p></td><td style=\"width:1.25in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Influence</span></p></td><td style=\"width:1.25in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Needs</span></p></td><td style=\"width:1.0in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Concerns</span></p></td></tr><tr><td style=\"width:.95in;\"><p>&nbsp;</p></td><td style=\"width:67.5pt;\"><p>&nbsp;</p></td><td style=\"width:85.5pt;\"><p>&nbsp;</p></td><td style=\"width:1.25in;\"><p>&nbsp;</p></td><td style=\"width:1.25in;\"><p>&nbsp;</p></td><td style=\"width:1.0in;\"><p>&nbsp;</p></td></tr><tr><td style=\"width:.95in;\"><p>&nbsp;</p></td><td style=\"width:67.5pt;\"><p>&nbsp;</p></td><td style=\"width:85.5pt;\"><p>&nbsp;</p></td><td style=\"width:1.25in;\"><p>&nbsp;</p></td><td style=\"width:1.25in;\"><p>&nbsp;</p></td><td style=\"width:1.0in;\"><p>&nbsp;</p></td></tr><tr><td style=\"width:.95in;\"><p>&nbsp;</p></td><td style=\"width:67.5pt;\"><p>&nbsp;</p></td><td style=\"width:85.5pt;\"><p>&nbsp;</p></td><td style=\"width:1.25in;\"><p>&nbsp;</p></td><td style=\"width:1.25in;\"><p>&nbsp;</p></td><td style=\"width:1.0in;\"><p>&nbsp;</p></td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "id": "83",
+          "guid": "d9f16223-3042-4e3a-a095-a7c9fffece8c",
+          "heading": "Project Priorities",
+          "children": [
+            {
+              "id": "84",
+              "guid": "5c1e386b-6f87-4f50-8750-7f5f7c70b731",
+              "text": "<p>&lt;Describe the priorities among the project’s requirements, schedule, and budget. The table below may be helpful in identifying the parameters around the project’s key drivers (top priority objectives), constraints to work within, and dimensions that can be balanced against each other to achieve the drivers within the known constraints. Examples:&gt;</p><table><tbody><tr><td style=\"width:1.45in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Dimension</span></p></td><td style=\"width:112.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Driver<br>&nbsp;(state objective)</span></p></td><td style=\"width:117.0pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Constraint<br>&nbsp;(state limits)</span></p></td><td style=\"width:144.9pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Degree of Freedom<br>&nbsp;(state allowable range)</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Schedule</span></p></td><td style=\"width:112.5pt;\"><p><span>release 1.0 to be available by 10/1, release 1.1 by 12/1</span></p></td><td style=\"width:117.0pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:144.9pt;\"><p><span>&nbsp;</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Features</span></p></td><td style=\"width:112.5pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:117.0pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:144.9pt;\"><p><span>70-80% of high priority features must be included in release 1.0</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Quality</span></p></td><td style=\"width:112.5pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:117.0pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:144.9pt;\"><p><span>90-95% of user acceptance tests must pass for release 1.0, 95-98% for release 1.1</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Staff</span></p></td><td style=\"width:112.5pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:117.0pt;\"><p><span>maximum team size is 1 PO, 1 BA, 6 developers, 3 testers</span></p></td><td style=\"width:144.9pt;\"><p><span>&nbsp;</span></p></td></tr><tr><td style=\"width:1.45in;\"><p><span>Cost</span></p></td><td style=\"width:112.5pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:117.0pt;\"><p><span>&nbsp;</span></p></td><td style=\"width:144.9pt;\"><p><span>budget overrun up to 15% acceptable without sponsor review</span></p></td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "id": "85",
+          "guid": "8c3a5a28-7ecf-41a6-949e-92c4e7fe6a11",
+          "heading": "Deployment Considerations",
+          "children": [
+            {
+              "id": "86",
+              "guid": "cfc52632-be43-43fc-a920-82fbcbde4261",
+              "text": "<p>&lt;Summarize the information and activities that are needed to ensure an effective deployment of the solution into its operating environment. Describe the access that users will require to be able to use the system, such as whether the users are distributed over multiple time zones or located close to each other. If infrastructure changes are needed to support the software’s need for capacity, network access, data storage, or data migration, describe those changes. Record any information that will be needed by people who will be preparing training or modifying business processes in conjunction with deployment of the new solution.&gt;</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "guid": "fcb1b975-35f3-4e29-9782-04176227268f",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00786182@mytru.ca",
+            "name": "T00786182"
+          },
+          "changedOn": "2025-09-26T19:19:10.467Z",
+          "docId": "Vision and Scope",
+          "structureAction": "Create"
+        }
+      ]
+    }
+  ],
   "attributes": {
   },
   "templateColumns": {
